@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![AWS Partner: Technical Accredited](https://images.credly.com/size/110x110/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)](http://www.credly.com/badges/bde563e6-69f4-4479-9dc9-1338383d9e3d "AWS Partner: Technical Accredited")
+[![VMware Certified Professional - Tanzu for Kubernetes Operations 2024 [v2]](https://images.credly.com/size/110x110/images/6fd2ca6b-e871-4693-b818-cbe58b232170/image.png)](http://www.credly.com/badges/6cca1585-6027-41dc-9c82-5145e09054ed "VMware Certified Professional - Tanzu for Kubernetes Operations 2024 [v2]")
 <!--END_SECTION:badges-->
