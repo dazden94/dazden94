@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@mainR
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: nedzad-winter.774b6a80
