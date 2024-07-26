@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png)](http://www.credly.com/badges/2b1f3b71-6284-454f-93bb-08111eff7bcf "LFS158: Introduction to Kubernetes")
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/9b634d55-5b04-4b54-bf99-1265600f235a/image.png)](http://www.credly.com/badges/772feb5b-d764-492c-8125-d3cb2049f230 "LFS169: Introduction to GitOps")
 [![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/eb2e256d-e6ae-4173-be1b-7cee5e8c35ac/image.png)](http://www.credly.com/badges/0fcfb088-04c3-4da1-8964-eaa35e783c30 "LFS151: Introduction to Cloud Infrastructure Technologies")
 [![AWS Partner: Technical Accredited](https://images.credly.com/size/110x110/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)](http://www.credly.com/badges/bde563e6-69f4-4479-9dc9-1338383d9e3d "AWS Partner: Technical Accredited")
 [![VMware Certified Professional - Tanzu for Kubernetes Operations 2024 [v2]](https://images.credly.com/size/110x110/images/6fd2ca6b-e871-4693-b818-cbe58b232170/image.png)](http://www.credly.com/badges/6cca1585-6027-41dc-9c82-5145e09054ed "VMware Certified Professional - Tanzu for Kubernetes Operations 2024 [v2]")
