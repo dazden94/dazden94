@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/f249d3f6-544e-4115-9284-1a3d87c89b2a "KCNA: Kubernetes and Cloud Native Associate")
 [![LFS250: Kubernetes and Cloud Native Essentials](https://images.credly.com/size/110x110/images/fbe82524-1e13-4e97-846c-27090b7e0a80/image.png)](http://www.credly.com/badges/598b687e-bfe6-4a9a-bd92-93b273fa65c9 "LFS250: Kubernetes and Cloud Native Essentials")
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/110x110/images/f7cec857-af48-48b2-897a-ff98e446d6e1/image.png)](http://www.credly.com/badges/70c32916-200f-4067-b71b-9549505c48fa "LFS162: Introduction to DevOps and Site Reliability Engineering")
 [![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png)](http://www.credly.com/badges/2b1f3b71-6284-454f-93bb-08111eff7bcf "LFS158: Introduction to Kubernetes")
